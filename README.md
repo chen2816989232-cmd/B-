@@ -1,6 +1,6 @@
 # Bilibili视频数据分析项目
 本项目旨在分析Bilibili视频数据，包括视频类型、观看次数、投币数等统计信息。
-使用Pythonc程序(get_bilibili.py)从Bilibili API获取数据
+使用Python程序(get_bilibili.py)从Bilibili API获取数据
 存储到MySQL数据库中，并使用pyecharts进行数据可视化。
 
 ## 目录
@@ -62,4 +62,5 @@ share_count 转发量
 reply_count 评论数
 province 省份/直辖市
 - （MySQL文件参考video_bili.sql）
+
 
